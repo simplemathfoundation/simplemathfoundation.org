@@ -6,7 +6,7 @@ We are a 501(c)(3) nonprofit organization that provides **free math tutoring and
 Our mission is to close the educational gap by making mathematics accessible, encouraging confidence, and fostering a lifelong love of learning.
 
 🌐 **Website:** [https://simplemathfoundation.org](https://simplemathfoundation.org)  
-📧 **Contact:** info@simplemathfoundation.org  
+📧 **Contact:** simplemathfoundationorg@gmail.com  
 
 ---
 
